@@ -1,2 +1,2 @@
-# JavaScript_Basci_DIO
+# JavaScript_Basic_DIO
 Basic JavaScript course offered by DIO
