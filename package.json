@@ -1,0 +1,25 @@
+{
+  "name": "javascript_basic_dio",
+  "version": "1.0.0",
+  "description": "Basic JavaScript course offered by DIO",
+  "main": "ArrowFunctions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GHEPT/JavaScript_Basic_DIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GHEPT/JavaScript_Basic_DIO/issues"
+  },
+  "homepage": "https://github.com/GHEPT/JavaScript_Basic_DIO#readme",
+  "dependencies": {
+    "next": "^12.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
